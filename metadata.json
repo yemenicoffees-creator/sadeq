@@ -1,0 +1,6 @@
+{
+  "name": "شركة البن اليمني للتجارة | Yemeni Coffee Trading Company",
+  "description": "الموقع الرسمي لشركة البن اليمني للتجارة، الرائدة في تجارة الجملة للقهوة والهيل والزعفران والبهارات والمكسرات في المملكة العربية السعودية. أصالة النكهة وجودة تستحق الثقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
